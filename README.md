@@ -8,14 +8,7 @@
 </p>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AguacateVelarde" alt="AguacateVelarde" /> </p>
-
-<br>
-<br>
 <br>
 
  <p align="center"> 
