@@ -6,7 +6,3 @@
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AguacateVelarde" alt="AguacateVelarde" /> </p>
 <br>
-
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=AguacateVelarde&show_icons=true">
- </p>
